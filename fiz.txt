@@ -1,0 +1,3 @@
+hello fiz
+hi
+bye
